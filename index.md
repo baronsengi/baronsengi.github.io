@@ -1,1 +1,1 @@
-A website for my favourite character is currently being built here!
+# Boïndil "Ingrimmsch" Zweiklinge - Mut oder Wahnsinn, ein schmaler Grat
