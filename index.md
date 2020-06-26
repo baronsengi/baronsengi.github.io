@@ -18,3 +18,5 @@ Seine Statur ist muskulös und gedrungen. Er trägt seine schwarzen Haare an den
 
 Eines seiner gern zitierten Zitate - aus _Die Rache der Zwerge_:
 > Die überragende Länge eines Lebewesens oder eines Gliedmaßes ist nicht alles. Das sieht man an den Elben. Ich sage immer: Wer lang ist, wird einfacher getroffen!
+
+<img src="https://vignette.wikia.nocookie.net/diezwerge/images/e/ee/Bo%C3%AFndil.png/revision/latest/top-crop/width/360/height/450?cb=20140809174937&path-prefix=de"/>
