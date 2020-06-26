@@ -17,4 +17,4 @@ Berserker werden unruhig und wütend, wenn sie über längere Zeit keinen Kampf 
 Seine Statur ist muskulös und gedrungen. Er trägt seine schwarzen Haare an den Seiten ausrasiert und hinten zu einem dicken Zopf geflochten, welcher bis zu den Kniekehlen hinab reicht. Er trägt zudem einen langen Bart, dessen Ende mit einer Spange zusammen gehalten wird. Boïndil hat braune Augen, trägt stets ein Kettenhemd und zwei kurzstielige Beile.
 
 Eines seiner gern zitierten Zitate - aus _Die Rache der Zwerge_:
-> "Die überragende Länge eines Lebewesens oder eines Gliedmaßes ist nicht alles. Das sieht man an den Elben. Ich sage immer: Wer lang ist, wird einfacher getroffen!"
+> Die überragende Länge eines Lebewesens oder eines Gliedmaßes ist nicht alles. Das sieht man an den Elben. Ich sage immer: Wer lang ist, wird einfacher getroffen!
